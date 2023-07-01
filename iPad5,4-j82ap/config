@@ -1,0 +1,6 @@
+[Port]
+local=2423
+remote=86
+rev=2
+nvram=1
+end_msg=Need connect cable DCSD change S/N with Tab DIAG[PURPLE]!
